@@ -1,0 +1,19 @@
+{
+  "name": "nightwatch-demo",
+  "version": "1.0.0",
+  "description": "Nightwatch demonstration project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niyatidalal/NordTestProject.git"
+  },
+  "author": "Niyati Dalal",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.7",
+    "util": "^0.10.3"
+  }
+}
