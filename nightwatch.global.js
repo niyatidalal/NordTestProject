@@ -25,14 +25,4 @@ module.exports = {
      */
     throwOnMultipleElementsReturned: false,
 
-    // Before/After Hooks of all tests
-    //before: (next) => next(),
-    //after: (next) => next(),
-
-    // Before/After Hooks of test suites
-    //beforeEach: (browser, next) => next(),
-    //afterEach: (browser, next) => next(),
-
-    // To customize output report
-    //reporter: (results, next) => next()
 };
